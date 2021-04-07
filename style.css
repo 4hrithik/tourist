@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: aqua;
+    height: 4em;
+}
+
+img{
+    margin: 0.5%;
+}
+
+.head-tag{
+    float: right;
+    margin: 3%;
+    word-spacing: 1.25em;
+}
+
+.head-tag a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    
+    padding: 1.5em;
+    color: azure;
+    
+    border-radius: 15px 50px ;
+}
+
